@@ -1,0 +1,30 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "a simplified flow of a blockchain implemented with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/clucasalcantara/blockchain.git%5C.git"
+  },
+  "keywords": [
+    "blockchain",
+    "javascript",
+    "nodejs",
+    "proof",
+    "of",
+    "concept"
+  ],
+  "author": "Caio Alcantara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clucasalcantara/blockchain.git%5C/issues"
+  },
+  "homepage": "https://github.com/clucasalcantara/blockchain.git%5C#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
